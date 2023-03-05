@@ -15,16 +15,15 @@ The primary purpose in distributing this source code is to enable readers to rep
 * Elliot Cartee was primarily responsible for the overall structure of the final implementation in this repository.
 * April Nellis and Jacob van Hook made significant contributions to the computations and plotting of the CDF bounds (Section 3, Example 4) and the fishing example (in the Appendix of our paper).
   During the summer REU program, they were also responsible for an earlier (proof-of concept, 1D) implementation of methods in sections 2 and 4.
-* Antonio Farah's main focus was on computing and analyzing the CDF for the number of random mode-switches experienced up to the termination.  
-  While interesting in its own right, this topic was omitted from the final manuscript for the sake of brevity & to streamline our presentation.
+* Antonio Farah's main focus was on computing and analyzing the CDF for the number of random mode-switches experienced up to the termination.  While interesting in its own right, this topic was omitted from the final manuscript for the sake of brevity & to streamline our presentation.
 * Alexander Vladimirsky supervised the overall project, formulated this model of uncertainty quantification, contributed several algorithmic ideas, and suggested the specific examples for benchmarking.
 * All five authors have contributed to writing and editing the manuscript.  
 
 The authors would like to thank Tristan Reynoso and Shriya Nagpal for their help in the initial stages of this project during the summer
 REU-2018 program at Cornell University.
 
-This work was started in an REU program partially supported by the NSF-RTG award DMS-1645643. 
-Elliot Cartee's and Alexander Vladimirsky's work was also supported in part by the NSF award DMS-1738010. 
+This work was started in an REU program partially supported by the NSF-RTG award DMS-1645643.
+Elliot Cartee's and Alexander Vladimirsky's work was also supported in part by the NSF award DMS-1738010.
 Alexander Vladimirsky's work was also supported by the Simons Foundation Fellowship and by the NSF award DMS-2111522.
 
 --------------------------------------------
